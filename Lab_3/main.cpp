@@ -4,7 +4,7 @@
 
 /*
 AK Lab 3
-Onyshchuk Yurii IV-91
+Mykytenko Vsevolod IV-91
 */
 
 int main(int argc, char* argv[]) {
